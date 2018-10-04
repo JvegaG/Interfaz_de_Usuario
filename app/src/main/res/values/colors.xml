@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorTextoDialog">#565656</color>
+
+    <color name="colorInicio">#512da8</color>
+    <color name="colorInicioDark">#4527a0</color>
+
+    <color name="colorFacebook">#4167B2</color>
+    <color name="colorFacebookDark">#34538f</color>
+
+    <color name="colorInstagram">#000000</color>
+
+    <color name="colorGooglePlus">#DC4437</color>
+    <color name="colorGooglePlusDark">#c93e32</color>
+
+    <color name="colorTwitter">#1DA1F3</color>
+    <color name="colorTwitterDark">#1a8cd2</color>
+</resources>

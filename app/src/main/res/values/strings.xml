@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Interfaz De Usuario</string>
+
+    <!-- String del NavigationView -->
+    <string name="inicio">Inicio</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="google_plus">Google Plus</string>
+    <string name="twitter">Twitter</string>
+    <string name="nombreUsuario">Jesus Vega Guerrero</string>
+    <string name="email">email@gmail.com</string>
+
+    <!-- String para el ActionBarDrawer Toogle -->
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+
+    <!--String del toolBar option-->
+    <string name="version_web">Versión Web</string>
+    <string name="compartir">Compartir</string>
+    <string name="configuracion">Configuración</string>
+    <string name="configuraciones">Configuraciones</string>
+</resources>
